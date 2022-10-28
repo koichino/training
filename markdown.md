@@ -3,6 +3,12 @@
 ###### This is an <h6> header, which is the smallest
 
   
+ *Hello, **world**!* 
+  
+ **Hello, *world*!**
+ 
+ *Hello, **world**!*
+  
   ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
